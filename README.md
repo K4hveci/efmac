@@ -6,6 +6,8 @@ My first python based Kali Tool
 # How To Install and Use
 ```
 git clone https://github.com/K4hveci/efmac
-python efmac.py -i <interface> -m <New MAC>
+mv efmac /bin
+python efmac -i <interface> -m <New MAC>
+
 ```
 Works with python3
